@@ -11,3 +11,6 @@ This pulls data on OHM swaps within Balancer
 
 ## ohmFraxBorrowers
 Pulls data from the Fraxlend graph to track activity on OHM-based borrowable asets
+
+## ohmSiloVestaBorrowers
+Pulls data from the Silo and Vesta grapsh to track activity on OHM-based borrowable asets
